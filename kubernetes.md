@@ -1,8 +1,14 @@
 # Commands
-### Basic
+### Deployments
 
-kubectl get deployments -- listar deployments ativos em namespace atual
-kubectl describe deployments/demo -- obter detalhes sobre um deployment
+#### 
+```
+kubectl get deployments         # Listar deployments ativos em namespace atual ou não especificado aaa sfdsgsgsdgsdg 
+```
+
+#### Obter detalhes sobre um deployment
+```kubectl describe deployments/demo```
+
 kubectl get pods --selector app=demo -- verifica se o pod está executando
 kubectl delete pods --selector app=demo -- encerrar o pod
 kubectl delete all --selector app=demo -- desativa o deployment e faz limpeza geral
