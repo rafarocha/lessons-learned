@@ -29,4 +29,6 @@ helm status NOME_RELEASE                        # Status exato de uma release es
 
 ## Cheat Sheet
 
-1. [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/), kubernetes.io/docs/reference 
+1. [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/), in kubernetes.io
+1. [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4), in github.com
+1.  [kubectl Cheat Sheet](unofficial-kubernetes.readthedocs.io), unofficial-kubernetes.readthedocs.io
