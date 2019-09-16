@@ -1,6 +1,5 @@
-## Review Books 
-### Cloud Native DevOps with Kubernetes
-#### Commands
+## Book Cloud Native DevOps with Kubernetes
+### Review Commands
 ```shell
 # Deployments
 kubectl get deployments                         # Listar deployments ativos em namespace atual 
@@ -27,3 +26,7 @@ helm install --name demo ./k8s/demo             # Criar recurso deployment, que 
 helm list                                       # Verificar quais releases estã executando em qualquer instante
 helm status NOME_RELEASE                        # Status exato de uma release específica
 ```
+
+## Cheat Sheet
+
+1. [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/), kubernetes.io/docs/reference 
