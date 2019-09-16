@@ -1,8 +1,8 @@
 # Commands
-### Deployments
+## Review Commands Book: Cloud Native DevOps with Kubernetes
 
-#### 
-```
+### Deployments
+```console
 kubectl get deployments         # Listar deployments ativos em namespace atual ou não especificado aaa sfdsgsgsdgsdg 
 ```
 
